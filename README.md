@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Hyun's Résumé</strong></h1>
 
 # <h1 align="center"> :mag_right: Info </h1>
-- 이름: 정현우
+- Name: Hyun Woo Jung 
 - 전공: 경영학(본전공), 산업공학(복수전공), 응용통계(부전공)
 - 이메일: chopin_liszt@naver.com
 - 자격증: SQL개발자 자격증(SQLD), 재무위험관리사(FRM), 한식/양식/중식/일식조리기능사
