@@ -2,10 +2,10 @@
 
 # <h1 align="center"> :mag_right: Info </h1>
 - Name: Hyun Woo Jung 
-- 전공: 경영학(본전공), 산업공학(복수전공), 응용통계(부전공)
-- 이메일: chopin_liszt@naver.com
-- 자격증: SQL개발자 자격증(SQLD), 재무위험관리사(FRM), 한식/양식/중식/일식조리기능사
-- 경력
+- Major: Business, Industrial Engineering, Sub-Major: Applied Statistics 
+- Email: chopin_liszt@naver.com
+- Ceritificates: SQLD (SQL Developer), FRM(Financial Risk Manager), Craftsman Cook (Western Food, Japanese Food)
+- Career
   - 교내 빅데이터 학회 YBIGTA 15기 (2019.07~2021.02)
     - YBIGTA Data Analytics Team (2019.07 ~ 2020.12)
     - YBIGTA Data Analytics 팀장 (2020.01 ~ 2020.07)
