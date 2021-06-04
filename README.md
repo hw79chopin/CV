@@ -23,7 +23,7 @@
 
 ## Programming Languages
 - Python 🥇
-- JavaScript (ES6+) 🥇
+- Javascript, Typescript (ES6+) 🥇
 - MySQL 🥇
 
 ## Frameworks / Technologies
