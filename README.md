@@ -18,9 +18,13 @@
 
 # <h1 align="center"> 🏫 Education </h1>
 - BS in Business, Industrial Engineering, Applied Statistics(Minor)
-  - Business School, University of Yonsei
-- MS in Quantitative Marketing
-  - Business School, University of Yonsei 
+  - Business School, University of Yonsei, South Korea
+- MS in Quantitative Marketing (Schduled)
+  - Business School, University of Yonsei, South Korea
+
+# <h1 align="center"> 📚 Research Interest </h1>
+- Quantative Marketing, Digital Marketing
+- MarTech, Big Data
 
 # <h1 align="center"> 💻 Programming Proficiency </h1>
 ```
@@ -41,31 +45,28 @@
 - HTML, CSS 🥉
 - Docker 🥉
 
-# <h1 align="center"> 📚 Research Interest </h1>
-- Quantative Marketing, Digital Marketing
-- MarTech, Big Data
-
 # <h1 align="center"> 📝 Publication </h1>
-- <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors</h3>
-  The Korean Society for Quality Management    
-  
-  2021
+<h5 align="center"> Recent Order </h5>
+
+- <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors </h3>
+
+  `Korean Society for Quality Management (2021)`
   
   This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
 
 # <h1 align="center"> 📂 Projects </h1>
 <h5 align="center"> Recent Order </h5>
 
-### 🚦 Service Launch (EagleEagle, Application for classes AI helper)
+### Service Launch (EagleEagle, Application for classes AI helper)
 `#AI` `#ServiceDevelopemnt`
 
 - '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발했다. 프로젝트의 PM을 맡으며 인공지능 개발과 백엔드 개발도 맡았다.
 - [이글이글](http://eagleeagle.io/)
 - 역할: PM, 인공지능 개발, 백엔드(Node.js)
 
-=====
+---
 
-### 🚦 국회의원 추천시스템 Web (X-senators)
+### 국회의원 추천시스템 Web (X-senators)
 `🥇 국회 빅데이터 경진대회 1위` `#Node.js` `#Express` `#Python` `#NLP` 
 
 [Dacon Leaderboard Link](https://dacon.io/competitions/official/235679/codeshare/1985)
@@ -75,7 +76,7 @@
 
 ---
 
-### 🚦 KoBERT-Summarizer
+### KoBERT-Summarizer
 `#Python` `#NLP` `#KoBERT` `#Node.js` `#Express`
 
 [Github Link](https://github.com/hw79chopin/3-lines-summary)
@@ -84,7 +85,7 @@
 
 ---
 
-### 🚦 삼성카드 데이터분석 공모전 (고객행동예측 알고리즘 개발)
+### 삼성카드 데이터분석 공모전 (고객행동예측 알고리즘 개발)
 `🥇1위` `#Python` `#Machine Learning` 
 
 [Github Link](https://github.com/hw79chopin/SAMSUNG_CARDS)
@@ -93,7 +94,7 @@
 
 ---
 
-### 🚦 텔레그램 크롤링 봇
+### 텔레그램 크롤링 봇
 `#Python` `#Telegram` 
 
 [Github Link](https://github.com/hw79chopin/Telegram-bot)
@@ -102,7 +103,7 @@
 
 ---
 
-### 🚦 좋은 글귀 Web
+### 좋은 글귀 Web
 `#Node.js` `#Express`
 
 [Github Link](https://github.com/hw79chopin/quote-reminder)
@@ -112,14 +113,14 @@
 
 ---
 
-### 🚦 POSCO ICT 프로젝트
+### POSCO ICT 프로젝트
 `#POSCO ICT` `#산학협력` 
 
 - POSCO ICT 산학협력을 통해 교수님들께서 논문 작성할 때 필요한 데이터 전처리 및 네트워크 분석을 도와드림
 
 ---
 
-### 🚦 대전시 유소년 의료취약 지역 파악 및 정책제언
+### 대전시 유소년 의료취약 지역 파악 및 정책제언
 `#Python` `#Clustering` 
 
 [Github Link](https://github.com/hw79chopin/Daejeon-bigdata-contest)
@@ -128,16 +129,7 @@
 
 ---
 
-### 🚦 연세시간표 생성기 프로그램 "이글이글"
-`#Node.js` `#Express` `#Python` `#Optimization` `#Machine Learning` `#Docker` 
-
-[Github Link](https://github.com/hw79chopin/EagleEagle)
-
-- 마일리지를 가장 효율적으로 배분해서 성공확률이 가장 높게 나오는 시간표들을 생성해주는 프로그램
-
----
-
-### 🚦 블럭 장난감 제조 공정 최적화 AI경진대회
+### 블럭 장난감 제조 공정 최적화 AI경진대회
 `🥉14위` `#Python` `#Genetic Algorithm` 
 
 [Github Link](https://github.com/hw79chopin/DACON-Manufacture-Process-Optimization)
@@ -147,7 +139,7 @@
 ---
 
 
-### 🚦 국회의원 추천 시스템 
+### 국회의원 추천 시스템 
 `🥇고등교육혁신원 사회혁신장학금 수여작` `#Python` `#word2vec` 
 
 [GitHub Link](https://github.com/hw79chopin/National-assembly-member-recommder)
@@ -156,16 +148,7 @@
 
 ---
 
-### 🚦 국회 입법관계 네트워크 분석
-`#Gephi` `#python#` 
-
-[Github Link](https://github.com/hw79chopin/National-assembly-member-Network-anaylsis)
-
-- 20대 국회의원의 법안 발의관계를 네트워크 분석함
-
---- 
-
-### 🚦 Petr.EAT 상품 추천시스템
+### Petr.EAT 상품 추천시스템
 `#Python` `#NLP` `#recommendation`
 
 [Github Link](https://github.com/hw79chopin/Petr.eat-Recommender)
@@ -174,7 +157,7 @@
 
 ---
 
-### 🚦 연세 수강신청 예측 프로그램
+### 연세 수강신청 예측 프로그램
 `#Python` `#Machine Learning` 
 
 [Github Link](https://github.com/hw79chopin/Projet_Yonsei_RegisterPrediction)
@@ -184,7 +167,7 @@
 
 ---
 
-### 🚦 PACKUS 당일배송 및 타겟마케팅 전략 제언
+### PACKUS 당일배송 및 타겟마케팅 전략 제언
 `🥉우수상` `#Python` 
 
 [Github Link](https://github.com/hw79chopin/Project_PACKUS)
@@ -193,7 +176,7 @@
 
 ---
 
-### 🚦 Kaggle Card fraud detection
+### Kaggle Card fraud detection
 `#Python` `#Machine Learning` `#Kaggle` 
 
 [Github Link](https://github.com/hw79chopin/Project_Kaggle_Card_fraud_detection)
@@ -204,7 +187,7 @@
 
 # <h1 align="center"> 🎓 Awards & Scholarships </h1>
 
-<h5 align="left"> Recent Order </h5>
+<h5 align="center"> Recent Order </h5>
 
 - 학업성적 우수상 (2021)
 - 국회 입법활동 빅데이터 시각화 경진대회 1위 (2021)
