@@ -1,64 +1,69 @@
-<h1 align="center"><strong>Hyun's Résumé</strong></h1>
+<h1 align="center"><strong>Résumé</strong></h1>
 
-# <h1 align="center"> :mag_right: Info </h1>
-- Name: Hyun Woo Jung 
-- Major: Business, Industrial Engineering, Sub-Major: Applied Statistics 
 - Email: chopin_liszt@naver.com
-- Ceritificates: SQLD (SQL Developer), FRM(Financial Risk Manager), Craftsman Cook (Western Food, Japanese Food)
+- Ceritificates
+  - HSK Level 5
+  - SQLD (SQL Developer)
+  - FRM(Financial Risk Manager)
+  - Craftsman Cook (Western Food, Japanese Food)
 - Career
-  - 교내 빅데이터 학회 YBIGTA 15기 (2019.07~2021.02)
+  - Yonsei Big Data Study Club 15th member (2019.07~2021.02)
     - YBIGTA Data Analytics Team (2019.07 ~ 2020.12)
-    - YBIGTA Data Analytics 팀장 (2020.01 ~ 2020.07)
+    - YBIGTA Data Analytics Team Leader (2020.01 ~ 2020.07)
     - YBIGTA Data Engineering Team (2021.01 ~ 2021.02)
+  - EagleEagle Startup 
+    - Roles: PM, Backend Engieer, AI algorithm development
+- Introduction
+  - TBD
 
+# <h1 align="center"> 🏫 Education </h1>
+- BS in Business, Industrial Engineering, Applied Statistics(Minor)
+  - Business School, University of Yonsei
+- MS in Quantitative Marketing
+  - Business School, University of Yonsei 
 
-# <h1 align="center"> 💻 Proficiency </h1>
-개발 경험이 있는 프로그래밍 언어 및 프레임워크입니다. 
-각각 능숙도에 따라 기재되어 있습니다.
+# <h1 align="center"> 💻 Programming Proficiency </h1>
 ```
-🥇 가장 능숙
-🥈 어느 정도 능숙
-🥉 사용해 본 적 있음
+🥇 Most Proficient
+🥈 Proficient
+🥉 Know how to use
 ```
 
 ## Programming Languages
-- Python 🥇
-- Javascript, Typescript (ES6+) 🥇
-- MySQL 🥇
+- Python, Javascript, Typescript (ES6+) 🥇
+- SQL 🥇
 
 ## Frameworks / Technologies
+- AWS (EC2, RDS, S3, DynamoDB)🥇
 - Express (Node.js) 🥇
-- React 🥈
-- SPSS 🥈
-- Docker 🥈
 - MongoDB 🥈
-- AWS (EC2, RDS, S3) 🥈
-- R 🥉
-- React-Native 🥉
-- Spark, Hadoop 🥉
-- Prolog 🥉
+- R 🥈
+- HTML, CSS 🥉
+- Docker 🥉
 
+# <h1 align="center"> 📚 Research Interest </h1>
+- Quantative Marketing, Digital Marketing
+- MarTech, Big Data
+
+# <h1 align="center"> 📝 Publication </h1>
+- <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors</h3>
+  The Korean Society for Quality Management    
+  
+  2021
+  
+  This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
 
 # <h1 align="center"> 📂 Projects </h1>
-<h5 align="center"> 최신순 </h5>
+<h5 align="center"> Recent Order </h5>
 
-### 🚦 EagleEagle 서비스 
-`#인공지능` `#서비스개발`
+### 🚦 Service Launch (EagleEagle, Application for classes AI helper)
+`#AI` `#ServiceDevelopemnt`
 
-- '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발 중이다. (가칭: 이글이글)
+- '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발했다. 프로젝트의 PM을 맡으며 인공지능 개발과 백엔드 개발도 맡았다.
+- [이글이글](http://eagleeagle.io/)
 - 역할: PM, 인공지능 개발, 백엔드(Node.js)
 
-
-
---- 
-
-### 🚦 한국품질경영학회 논문 게재
-`#한국품질경영학회` `#국회의원 추천`
-
-- "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors" 한국품질경영학회에 게재
-- 공저자: 윤형준, 이시은, 박솔희, 손소영 교수님
-
----
+=====
 
 ### 🚦 국회의원 추천시스템 Web (X-senators)
 `🥇 국회 빅데이터 경진대회 1위` `#Node.js` `#Express` `#Python` `#NLP` 
@@ -197,176 +202,13 @@
 
 ---
 
-# <h1 align="center"> 📝 Study </h1>
-### 🚦 Docker
-- Docker를 사용하여 React, Node앱을 배포하는 법을 배운 뒤 나만의 이미지를 직접 만들어봄 (2021-1학기)
+# <h1 align="center"> 🎓 Awards & Scholarships </h1>
 
-### 🚦 SQL
-- SQLD 준비 및 SQL 문제 몇 백개를 풀어보면서 MySQL을 익숙하게 다룰 수 있도록 공부함 (2020-2학기)
+<h5 align="left"> Recent Order </h5>
 
-### 🚦 추천시스템
-- 미네소타 대학의 강의를 들으면서 추천시스템에 대해서 공부함 (2020-1학기)
-
-### 🚦 AWS
-- AWS 강의를 들으면서 AWS Lambda, EC2, S3, RDS 등 사용법을 익힘 (2020-1학기)
-
-
-# <h1 align="center"> 📚 Courses </h1>
-경영학, 산업공학, 응용통계학을 전공하며 현재까지 수강한 데이터 관련 과목 리스트입니다.
-
-- 선형대수
-- 품질공학
-- 생산계획론
-- 시장조사론
-- 미분적분학
-- 통계학입문
-- OR확정모델
-- AI스타트업
-- 수리통계학(1)
-- 산업정보관리론
-- 지능정보시스템
-- 인공지능최적화
-- 마케팅전략모형
-- 비즈니스애널리틱스
-- R과파이썬프로그래밍
-- 데이터마이닝이론및응용
-
-
-
-<h3 align="center">감사합니다 👍 </h3>
-
-# Chaeyeon Han
-Email: ch55@illinois.edu
-    
-Introduction 
-==========================
-I am currently a first year master student at Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign (UIUC). My interest revolves in analyzing and solving convoluted urban issues through data science. I hope to contribute to building sustainable and equitable city through transdisciplinary studies in urban planning and data science. Apart from my academic interest, I love Korean indie music, ballet, coffee, and cooking then eating!  
-
-I am an active member of the Korean Youth Climate Change Network, BIGWAVE. I engage in the researcher network and participate in climate change related studies in the group. I am also working as a graduate team staff in Korean Student Association (KSA) at Urbana-Champaign, Illinois. 
-***
-
-Skills
-======
-📎 Software skills
-Adobe Photoshop, Adobe Illustrator, GIS, Auto CAD, VLLO (video edit)   
-📎 Computer science skills    
-+ Most preferred: R, Python, C, C++     
-+ Have some experience: HTML, CSS, PHP, Java, JavaScript, MySQL, Assembly Language   
-
-📎 Miscellaneous skills 
-Ballet (2006-2008, 2015-Present), Band vocalist (Mar. 2015 – Feb. 2017)   
-***
-    
-✏ Education 
-===============
-💻 Master of Urban Planning 
-University of Illinois at Urban-Champaign 
-August 2020 - present   
-👩🏻‍🎓 Bachelor of Science in Computer Science and Engineering 
-Yonsei University, Seoul, Republic of Korea 
-March 2015 - August 2020   
-👩🏻‍🎓 Bachelor of Science in Urban Planning and Engineering 
-Yonsei University, Seoul, Republic of Korea
-March 2018 - August 2020
-***
-    
-Research Experience
-======================
-### 📎 Analysis of the Subway Ridership Change in Seoul after the Outbreak of COVID-19
-June - August 2020
-_Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_               
-🏅 Awarded by Seoul Institute for Excellency in Research Paper ($1,000)                                                        
-+	Categorized the reduce pattern of ridership demand in each station using open ridership data
-+	Used Python to process data, K-means clustering in SAS 
-
-### 📎 A Comparative Analysis of Trends of Disaster Risk Researches using Topic Modeling & Network Analysis
-January - May 2020   
-_Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University_   
-👩 Presentation in Korean Society of Hazard Mitigation ([link](https://www.kosham.or.kr/html/))      
-+ Collected disaster-related research papers' title and abstract through web scraping tool
-+ Used Python to process data, implement LCA topic modeling analysis
-+ Used Gephi to implement network analysis    
----------------------         
-
-👩🏻‍💻 Projects
-==================
-### 📎 Projection-based AR Evacuation Simulator (PARES) using Kinect for Windows V2 and Unity  
-March – June 2019
-_Capstone project at Yonsei University Media System Lab_    
-Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
-🏅 Awarded 1st place award in Computer Science Exhibition 2019         
-+	Developed an on-desk AR (Augmented Reality) simulator that recognizes a blueprint in real-time and calculates the evacuation way and time of the number of people a user indicated through placing tangible color blocks on the blueprint
-+	Combined Floyd-Warshall algorithm and Dijkstra algorithm to reduce operating time in wayfinding process     
-[Github Link](https://github.com/bravoyourlif/PARES)
-
-### 📎 Korean Language (Hangeul) Education AR Mobile APP, DictionARy  
-March – June 2020
-_Capstone project at Yonsei University Media System Lab_    
-Supervisor: Professor Tack Don Han / Role: Project leader (among three members)            
-🏅 Awarded 1st place award in Computer Science Exhibition 2020          
-+	Developed a mobile AR (Augmented Reality) application for Korean language education.
-+	Used Vuforia engine powered in Unity.      
-[Github Link](https://github.com/bravoyourlif/DictionARy)
-
----------------------   
-
-👩🏻‍💼 Working and Volunteering Experience
-==================================================
-### 📎 Teaching Assistant (based on R) 
-Department of Urban and Regional Planning at UIUC             
-August 2020 - present
-+	Courses: Advanced Data Science for Planners, Data Science for Planners, 
-Urban Transportation Modeling 
-
-### 📎 Research Assistant Internship 
-Environmental Spatial Informatics & Disaster Prevention Lab, Yonsei University          
-January - October 2020
-+	Analyze the tendency of how research on disasters has been conducted through Topic Modeling and Network Analysis
-
-### 📎 Teaching Assistant (based on Python) 
-Yonsei University Liberal Education for Freshmen          
-January - June 2020
-+	Course: Computational Thinking and SW Programming
-
-### 📎 Volunteer Mentor for Unprivileged Children 
-‘Inside-out Mentor Group’ at Gangseo I-will Center, Seoul, South Korea    
-May - November 2019
-+	Tutor of math, Korean literature, and basic programming
-
-### 📎 Tutor of Operating System course
-Tutor at Yonsei OSE (Open Smart Education) Center    
-March - June 2019
-+	Taught and supported five undergraduate students in an OS course
-
-### 📎 Project Manager (among four members) 
-Start-up enterprise ‘7Pictures’     
-August 2016 - December 2017
-+	As a member of a start-up enterprise, ran an art field crowdfunding platform, conducted art projects, and planned visual art exhibitions
-
----------------------     
-
-AWARDS & SCHOLARSHIPS	
-======================
-#### Graduate Assistantship & Financial Award (approximately $40,000)
-University of Illinois at Urban-Champaign	2020-21 Academic Year
-#### College of Fine and Applied Arts Nonresidents Scholarship ($5,000)
-University of Illinois at Urban-Champaign	2021-22 Academic Year
-#### Excellent Research Paper Award ($1,000)
-Seoul Institute 	Nov. 2020
-#### Excellent Volunteering Mentor of Children
-Gangseo I-will center, Seoul 	Nov. 2019
-#### Honors roll (GPA : 4.03/4.3)
-Department of Computer Science and Engineering, Yonsei University	1st Semester, 2019
-#### 1st place award in Computer Science Exhibition (2 awards)
-Yonsei University, awarded among 30 teams	1st & 2nd Semester, 2019
-#### 1st place award in China Language Program
-Sichuan Normal University, China
-+	Presentation about Chinese culture in Chinese language	July 2018
-#### Technology Assistant Scholarship ($4375)
-Graduate School of International Studies, Yonsei University	Sep. 2018 – Aug. 2019
-#### Excellent Tutor Scholarship ($250)
-Yonsei OSE (Open Smart Education) center, for tutoring Operating System 	June 2019
-
-
-
-
+- 학업성적 우수상 (2021)
+- 국회 입법활동 빅데이터 시각화 경진대회 1위 (2021)
+- 제 1회 삼성카드 데이터분석 공모전 알고리즘 개발부문 1위 (2020)
+- 학업성적 우수상 (2020)
+- 고등교육혁신원 사회혁신장학금 (2020)
+- 연세 데이터사이언스 경진대회 우수상 (2019)
