@@ -1,5 +1,6 @@
-<h1 align="center"><strong>Résumé</strong></h1>
+<h1 align="center"><strong>Jung Hyun Woo</strong></h1>
 
+### Brief introduction
 - Email: chopin_liszt@naver.com
 - Ceritificates
   - HSK Level 5
@@ -11,7 +12,7 @@
     - YBIGTA Data Analytics Team (2019.07 ~ 2020.12)
     - YBIGTA Data Analytics Team Leader (2020.01 ~ 2020.07)
     - YBIGTA Data Engineering Team (2021.01 ~ 2021.02)
-  - EagleEagle Startup 
+  - Founder of EagleEagle
     - Roles: PM, Backend Engieer, AI algorithm development
 - Introduction
   - TBD
@@ -19,10 +20,10 @@
 # <h1 align="center"> 🏫 Education </h1>
 - BS in Business, Industrial Engineering, Applied Statistics(Minor)
   - Business School, University of Yonsei, South Korea
-- MS in Quantitative Marketing (Schduled)
+- MS in Marketing (Schduled)
   - Business School, University of Yonsei, South Korea
 
-# <h1 align="center"> 📚 Research Interest </h1>
+# <h1 align="center"> 🔎 Research Interest </h1>
 - Quantative Marketing, Digital Marketing
 - MarTech, Big Data
 
@@ -57,8 +58,8 @@
 # <h1 align="center"> 📂 Projects </h1>
 <h5 align="center"> Recent Order </h5>
 
-### Service Launch (EagleEagle, Application for classes AI helper)
-`#AI` `#ServiceDevelopemnt`
+### EagleEagle, 'AI college life helper'
+`#AI` `#ServiceLaunch`
 
 - '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발했다. 프로젝트의 PM을 맡으며 인공지능 개발과 백엔드 개발도 맡았다.
 - [이글이글](http://eagleeagle.io/)
@@ -66,8 +67,8 @@
 
 ---
 
-### 국회의원 추천시스템 Web (X-senators)
-`🥇 국회 빅데이터 경진대회 1위` `#Node.js` `#Express` `#Python` `#NLP` 
+### X-senators, Lawmaker Recommendation Website
+`#🥇AwardWinning` `#Node.js` `#Python` `#NLP` 
 
 [Dacon Leaderboard Link](https://dacon.io/competitions/official/235679/codeshare/1985)
 
@@ -77,7 +78,7 @@
 ---
 
 ### KoBERT-Summarizer
-`#Python` `#NLP` `#KoBERT` `#Node.js` `#Express`
+`#Python` `#NLP` `#KoBERT` `#Node.js`
 
 [Github Link](https://github.com/hw79chopin/3-lines-summary)
 
@@ -86,7 +87,7 @@
 ---
 
 ### 삼성카드 데이터분석 공모전 (고객행동예측 알고리즘 개발)
-`🥇1위` `#Python` `#Machine Learning` 
+`🥇AwardWinning` `#Python` `#Machine Learning` 
 
 [Github Link](https://github.com/hw79chopin/SAMSUNG_CARDS)
 
@@ -130,7 +131,7 @@
 ---
 
 ### 블럭 장난감 제조 공정 최적화 AI경진대회
-`🥉14위` `#Python` `#Genetic Algorithm` 
+`#Python` `#Genetic Algorithm` 
 
 [Github Link](https://github.com/hw79chopin/DACON-Manufacture-Process-Optimization)
 
@@ -140,7 +141,7 @@
 
 
 ### 국회의원 추천 시스템 
-`🥇고등교육혁신원 사회혁신장학금 수여작` `#Python` `#word2vec` 
+`🥇Scholarship` `#Python` `#word2vec` 
 
 [GitHub Link](https://github.com/hw79chopin/National-assembly-member-recommder)
 
@@ -168,7 +169,7 @@
 ---
 
 ### PACKUS 당일배송 및 타겟마케팅 전략 제언
-`🥉우수상` `#Python` 
+`🥉AwardWinning` `#Python` 
 
 [Github Link](https://github.com/hw79chopin/Project_PACKUS)
 
@@ -185,13 +186,27 @@
 
 ---
 
+# <h1 align="center"> 📚 Courses </h1>
+경영학, 산업공학, 응용통계학을 전공하며 현재까지 수강한 데이터 관련 과목 리스트입니다.
+
+|Business| Industrial Engineering|Statistics|
+|:--:|:--:|:--:|
+|Business Analytics|AI Startup|Calculus|
+|Marketing Research|Data Analysis|Linear Algebra|
+|Marketing Strategy Model|Optimization in AI|Statistical Method|
+|Digital Marketing Seminar|Quality Engineering|R&Python Programming|
+|Digital Marketing Startegy and Application|Deterministic Models in OR|Introduction to Statistics|
+||Industrial Data Management|Bayesian Statistics|
+||Intelligent Information System|Mathematical Statistics (1)|
+||Data Mining Theory and Application|Mathematical Statistics (2)|
+
 # <h1 align="center"> 🎓 Awards & Scholarships </h1>
 
 <h5 align="center"> Recent Order </h5>
 
-- 학업성적 우수상 (2021)
-- 국회 입법활동 빅데이터 시각화 경진대회 1위 (2021)
-- 제 1회 삼성카드 데이터분석 공모전 알고리즘 개발부문 1위 (2020)
-- 학업성적 우수상 (2020)
-- 고등교육혁신원 사회혁신장학금 (2020)
-- 연세 데이터사이언스 경진대회 우수상 (2019)
+- Academic Achievement Award, Yonsei University, 2021
+- 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
+- 1st place in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
+- Academic Achievement Award, Yonsei University, 2020
+- Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
+- Excellence Award in 'Yonsei Data Science Contest', Yonsei University, 2019
