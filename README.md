@@ -19,13 +19,26 @@
 
 # <h1 align="center"> 🏫 Education </h1>
 - BS in Business, Industrial Engineering, Applied Statistics(Minor)
-  - Business School, University of Yonsei, South Korea
+  - University of Yonsei, South Korea
 - MS in Marketing (Schduled)
-  - Business School, University of Yonsei, South Korea
+  - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
 - Quantative Marketing, Digital Marketing
 - MarTech, Big Data
+
+
+# <h1 align="center"> 🎓 Awards & Scholarships </h1>
+
+<h5 align="center"> Recent Order </h5>
+
+- Academic Achievement Award, Yonsei University, 2021
+- 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
+- 1st place in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
+- Academic Achievement Award, Yonsei University, 2020
+- Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
+- Excellence Award in 'Yonsei Data Science Contest', Yonsei University, 2019
+
 
 # <h1 align="center"> 💻 Programming Proficiency </h1>
 ```
@@ -188,7 +201,7 @@
 ---
 
 # <h1 align="center"> 📚 Courses </h1>
-경영학, 산업공학, 응용통계학을 전공하며 현재까지 수강한 데이터 관련 과목 리스트입니다.
+Courses that I took related to data science
 
 |Business| Industrial Engineering|Statistics|
 |:--:|:--:|:--:|
@@ -200,14 +213,3 @@
 ||Industrial Data Management|Bayesian Statistics|
 ||Intelligent Information System|Mathematical Statistics (1)|
 ||Data Mining Theory and Application|Mathematical Statistics (2)|
-
-# <h1 align="center"> 🎓 Awards & Scholarships </h1>
-
-<h5 align="center"> Recent Order </h5>
-
-- Academic Achievement Award, Yonsei University, 2021
-- 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
-- 1st place in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
-- Academic Achievement Award, Yonsei University, 2020
-- Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
-- Excellence Award in 'Yonsei Data Science Contest', Yonsei University, 2019
