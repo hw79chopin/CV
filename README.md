@@ -109,15 +109,6 @@
 
 ---
 
-### 텔레그램 크롤링 봇
-`#Python` `#Telegram` 
-
-[Github Link](https://github.com/hw79chopin/Telegram-bot)
-
-- 원하는 조건의 채용공고가 올라왔을 때 텔레그램으로 메세지를 발송하는 봇 
-
----
-
 ### 좋은 글귀 Web
 `#Node.js` `#Express`
 
@@ -169,15 +160,6 @@
 [Github Link](https://github.com/hw79chopin/Petr.eat-Recommender)
 
 - 반려동물 수제간식 추천시스템
-
----
-
-### 연세 수강신청 예측 프로그램
-`#Python` `#Machine Learning` 
-
-[Github Link](https://github.com/hw79chopin/Projet_Yonsei_RegisterPrediction)
-
-- 학생의 정보에 따라 마일리지별 성공확률을 계산해주는 프로그램
 
 
 ---
