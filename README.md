@@ -61,9 +61,10 @@
 ### EagleEagle, 'AI college life helper'
 `#AI` `#ServiceLaunch`
 
-- '인공지능 기반 수강신청 성공확률 예측 및 마일리지 기반'의 서비스를 개발했다. 프로젝트의 PM을 맡으며 인공지능 개발과 백엔드 개발도 맡았다.
-- [이글이글](http://eagleeagle.io/)
-- 역할: PM, 인공지능 개발, 백엔드(Node.js)
+- [EagleEagle Website](http://eagleeagle.io/)
+- EagleEagle team is to develop a service from scratch. Our service recommends timetable based on the predicted success probability per mileage for course registration in Yonsei. Yonsei Univ. has unique course registration system. Students have to allocate certain amount of mileages for registration.
+- I served as the PM of the project while developing AI algorithms and backend server. (Feb, 2021)
+- EagleEagle team developed into a Startup and received fundings from Enterprise support foundation. (Nov, 2021)
 
 ---
 
