@@ -77,7 +77,7 @@
 - [EagleEagle Website](http://eagleeagle.io/)
 - EagleEagle team is to develop a service from scratch. Our service recommends timetable based on the predicted success probability per mileage for course registration in Yonsei. Yonsei Univ. has unique course registration system. Students have to allocate certain amount of mileages for registration.
 - I served as the PM of the project while developing AI algorithms and backend server. (Feb, 2021)
-- EagleEagle team developed into a Startup and received fundings from Enterprise support foundation. (Nov, 2021)
+- EagleEagle team developed into a Startup and received 1st fundings from Enterprise support foundation. (Nov, 2021)
 
 ---
 
@@ -86,8 +86,9 @@
 
 [Dacon Leaderboard Link](https://dacon.io/competitions/official/235679/codeshare/1985)
 
-- 사용자의 관심사와 가장 부합하는 법안을 발의하는 국회의원(21대)을 추천해주는 Web
-- DACON 국회 입법활동 빅데이터 경진대회 1위
+- 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
+- X-senators is a lawmaker recommendation service to promote the political sponsors.
+- Recommendation is based on the bills that lawmakers have proposed. Word2vec is used to make bills in to 100-dimensional vector and lawmakers' vector was made by aggregating bills' vector. Top 5 lawmakers who share similar interest with user were proposed by comparing cosine similarity between user input and lawmaker's input. 
 
 ---
 
