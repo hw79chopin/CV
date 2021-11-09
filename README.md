@@ -92,12 +92,12 @@
 
 ---
 
-### KoBERT-Summarizer
+### KoBERT 3-sentences-summarizer
 `#Python` `#NLP` `#KoBERT` `#Node.js`
 
 [Github Link](https://github.com/hw79chopin/3-lines-summary)
 
-- KoBERT를 활용하여 Extractive Summarizer를 만들고 시연용 Web을 구현함
+- This project is to make 3-sentences summarizer(extractive summarization) using KoBERT which is BERT for korean. Also developed a web page for demonstration.
 
 ---
 
