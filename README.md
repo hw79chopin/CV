@@ -82,7 +82,7 @@
 ---
 
 ### X-senators, Lawmaker Recommendation Website
-`#🥇AwardWinning` `#Node.js` `#Python` `#NLP` 
+`#🥇Award Winning` `#Node.js` `#Python` `#NLP` 
 
 [Dacon Leaderboard Link](https://dacon.io/competitions/official/235679/codeshare/1985)
 
@@ -101,22 +101,13 @@
 
 ---
 
-### 삼성카드 데이터분석 공모전 (고객행동예측 알고리즘 개발)
-`🥇AwardWinning` `#Python` `#Machine Learning` 
+### Samsung Card Bigdata Analysis Competition (Developing an algorithm for predicting customer behavior)
+`🥇Award Winning` `#Python` `#Machine Learning` 
 
 [Github Link](https://github.com/hw79chopin/SAMSUNG_CARDS)
 
-- 삼성카드 고객데이터를 활용해 다음에 방문할 가맹점을 예측하는 알고리즘을 개발하는 대회
-
----
-
-### 좋은 글귀 Web
-`#Node.js` `#Express`
-
-[Github Link](https://github.com/hw79chopin/quote-reminder)
-
-- 좋은 글귀를 다시 리마인드 해주는 Web
-- 첫 번째 Node.js 개인 프로젝트
+- Samsung Card Bigdata Analysis Competition is to develop an algorithm to predict which stores customers are gonna visit next time.
+- Our team won a 1st prize.
 
 ---
 
