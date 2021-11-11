@@ -118,7 +118,7 @@
 ---
 
 ### POSCO ICT inhouse data analysis
-`#POSCO` `#Industry-Academic.
+`#POSCO` `#Industry-Academic`
 
 - POSCO ICT asked for research to find out COVID-19 impact on their company as an industry-academic cooperation. I helped professors preprocessing data and network analyze for their assertation.
 - Period: 2020.07 ~ 2021.03
