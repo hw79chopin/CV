@@ -78,6 +78,7 @@
 - EagleEagle team is to develop a service from scratch. Our service recommends timetable based on the predicted success probability per mileage for course registration in Yonsei. Yonsei Univ. has unique course registration system. Students have to allocate certain amount of mileages for registration.
 - I served as the PM of the project while developing AI algorithms and backend server. (Feb, 2021)
 - EagleEagle team developed into a Startup and received 1st fundings from Enterprise support foundation. (Nov, 2021)
+- Period: 2021.2 ~
 
 ---
 
@@ -89,6 +90,7 @@
 - 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
 - X-senators is a lawmaker recommendation service to promote the political sponsors.
 - Recommendation is based on the bills that lawmakers have proposed. Word2vec is used to make bills in to 100-dimensional vector and lawmakers' vector was made by aggregating bills' vector. Top 5 lawmakers who share similar interest with user were proposed by comparing cosine similarity between user input and lawmaker's input. 
+- Period: 2020.10 ~ 2020.12
 
 ---
 
@@ -98,23 +100,28 @@
 [Github Link](https://github.com/hw79chopin/3-lines-summary)
 
 - This project is to make 3-sentences summarizer(extractive summarization) using KoBERT which is BERT for korean. Also developed a web page for demonstration.
-
+- Period: 2020.10 ~ 2020.12
+  
 ---
 
-### Samsung Card Bigdata Analysis Competition (Developing an algorithm for predicting customer behavior)
+### Samsung Card Bigdata Analysis Competition
+#### *Developing an algorithm for predicting customer behavior*
+
 `🥇Award Winning` `#Python` `#Machine Learning` 
 
 [Github Link](https://github.com/hw79chopin/SAMSUNG_CARDS)
 
 - Samsung Card Bigdata Analysis Competition is to develop an algorithm to predict which stores customers are gonna visit next time.
 - Our team won a 1st prize.
+- Period: 2020.08 ~ 2020.12
 
 ---
 
-### POSCO ICT 프로젝트
-`#POSCO ICT` `#산학협력` 
+### POSCO ICT inhouse data analysis
+`#POSCO` `#Industry-Academic.
 
-- POSCO ICT 산학협력을 통해 교수님들께서 논문 작성할 때 필요한 데이터 전처리 및 네트워크 분석을 도와드림
+- POSCO ICT asked for research to find out COVID-19 impact on their company as an industry-academic cooperation. I helped professors preprocessing data and network analyze for their assertation.
+- Period: 2020.07 ~ 2021.03
 
 ---
 
