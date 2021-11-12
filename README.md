@@ -124,13 +124,12 @@
 - Period: 2020.07 ~ 2021.03
 
 ---
-
-### 대전시 유소년 의료취약 지역 파악 및 정책제언
+### Daejeon Bigdata Competition
 `#Python` `#Clustering` 
 
 [Github Link](https://github.com/hw79chopin/Daejeon-bigdata-contest)
 
-- 대전시 유소년 의료취약 지역 분석 및 정책 제언 (대전시 2020 빅데이터 공모전)
+- Purpose of our project was to identify medical vulnerable area for youth in Daejeon and suggest policy to handle this vulnerability.
 
 ---
 
@@ -143,7 +142,7 @@
 
 ---
 
-
+2021/11/12
 ### 국회의원 추천 시스템 
 `🥇Scholarship` `#Python` `#word2vec` 
 
