@@ -90,7 +90,7 @@
 - 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
 - X-senators is a lawmaker recommendation service to promote the political sponsors.
 - Recommendation is based on the bills that lawmakers have proposed. Word2vec is used to make bills in to 100-dimensional vector and lawmakers' vector was made by aggregating bills' vector. Top 5 lawmakers who share similar interest with user were proposed by comparing cosine similarity between user input and lawmaker's input. 
-- Period: 2020.10 ~ 2020.12
+- Period: 2020.11 ~ 2020.12
 
 ---
 
@@ -124,24 +124,26 @@
 - Period: 2020.07 ~ 2021.03
 
 ---
+
+### Optimizing Toy Manufacturing Process with AI Competition
+`#Python` `#Genetic Algorithm` 
+
+[Github Link](https://github.com/hw79chopin/DACON-Manufacture-Process-Optimization)
+
+- It was AI competition by Dacon and LG. Our team used genetic algorithm to optimize toy manufacturing process. 
+- Period: 2020.06 ~ 2020.7
+
+---
+
 ### Daejeon Bigdata Competition
 `#Python` `#Clustering` 
 
 [Github Link](https://github.com/hw79chopin/Daejeon-bigdata-contest)
 
 - Purpose of our project was to identify medical vulnerable area for youth in Daejeon and suggest policy to handle this vulnerability.
+- Period: 2020.04 ~ 2020.7
 
 ---
-
-### 블럭 장난감 제조 공정 최적화 AI경진대회
-`#Python` `#Genetic Algorithm` 
-
-[Github Link](https://github.com/hw79chopin/DACON-Manufacture-Process-Optimization)
-
-- 유전 알고리즘을 사용하여 제조공정을 최적화하는 대회
-
----
-
 2021/11/12
 ### 국회의원 추천 시스템 
 `🥇Scholarship` `#Python` `#word2vec` 
@@ -163,7 +165,7 @@
 ---
 
 ### PACKUS 당일배송 및 타겟마케팅 전략 제언
-`🥉AwardWinning` `#Python` 
+`🥉Award Winning` `#Python` 
 
 [Github Link](https://github.com/hw79chopin/Project_PACKUS)
 
