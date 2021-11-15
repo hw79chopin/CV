@@ -144,13 +144,13 @@
 - Period: 2020.04 ~ 2020.7
 
 ---
-2021/11/12
-### 국회의원 추천 시스템 
+### Lawmaker Recommendation System
 `🥇Scholarship` `#Python` `#word2vec` 
 
 [GitHub Link](https://github.com/hw79chopin/National-assembly-member-recommder)
 
-- 20대 국회의원 법안을 기반으로 사용자의 관심사와 가장 부합하는 법안을 발의하는 국회의원을 추천해주는 시스템
+- Lawmaker recommendation system recommends lawmakers whose proposed bills are similar to user's interest.
+- Lawmaker vector and user input vector were made with Word2vec and match similar lawmakers based on cosine similarity between vectors.
 
 ---
 
