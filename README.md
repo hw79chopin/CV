@@ -154,12 +154,13 @@
 
 ---
 
-### Petr.EAT 상품 추천시스템
+### Petr.EAT Recommendation System
 `#Python` `#NLP` `#recommendation`
 
 [Github Link](https://github.com/hw79chopin/Petr.eat-Recommender)
 
-- 반려동물 수제간식 추천시스템
+- Petr.EAT is a platform selling hommade snacks for pets. My role is to make a recommendation system for products based on a description and ingredients of the products.
+- Product vector was made with word2vec and TF-IDF score and use cosine similarity to recommend similar products.
 
 
 ---
