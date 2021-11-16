@@ -14,13 +14,11 @@
     - YBIGTA Data Engineering Team (2021.01 ~ 2021.02)
   - Founder of EagleEagle
     - Roles: PM, Backend Engieer, AI algorithm development
-- Introduction
-  - TBD
 
 # <h1 align="center"> 🏫 Education </h1>
 - BS in Business, Industrial Engineering, Applied Statistics(Minor)
   - University of Yonsei, South Korea
-- MS in Marketing (Schduled)
+- MS in Marketing (Scheduled)
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
@@ -37,7 +35,7 @@
 - 1st place in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
 - Academic Achievement Award, Yonsei University, 2020
 - Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
-- Excellence Award in 'Yonsei Data Science Contest', Yonsei University, 2019
+- Excellence Award in 'Yonsei Bigdata Contest', Yonsei University, 2019
 
 
 # <h1 align="center"> 💻 Programming Proficiency </h1>
@@ -165,12 +163,13 @@
 
 ---
 
-### PACKUS 당일배송 및 타겟마케팅 전략 제언
+### PACKUS bigdata analysis 
 `🥉Award Winning` `#Python` 
 
 [Github Link](https://github.com/hw79chopin/Project_PACKUS)
 
-- PACKUS 품목 수요예측을 통한 당일배송 전략 및 타겟마케팅 전략을 제언
+- PACKUS is a B2B company that sells packaging containers for restaurants and companies. By analysing PACKUS's in-house data, our team suggests demand forecasting method to reduce delivery time and target marketing strategies.
+- Won a excellence Award in 'Yonsei Bigdata Contest' in 2019
 
 ---
 
