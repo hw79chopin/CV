@@ -178,7 +178,8 @@
 
 [Github Link](https://github.com/hw79chopin/Project_Kaggle_Card_fraud_detection)
 
-- 고객 카드데이터를 바탕으로 사기거래 여부를 판단
+- Predict whether transaction is a fraud or not based on the card transaction data.
+- My first Bigdata competition
 
 ---
 
