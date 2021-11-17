@@ -149,6 +149,7 @@
 
 - Lawmaker recommendation system recommends lawmakers whose proposed bills are similar to user's interest.
 - Lawmaker vector and user input vector were made with Word2vec and match similar lawmakers based on cosine similarity between vectors.
+- Period: 2020.03 ~ 2020.7
 
 ---
 
@@ -159,7 +160,7 @@
 
 - Petr.EAT is a platform selling hommade snacks for pets. My role is to make a recommendation system for products based on a description and ingredients of the products.
 - Product vector was made with word2vec and TF-IDF score and use cosine similarity to recommend similar products.
-
+- Period: 2020.02 ~ 2020.6
 
 ---
 
@@ -170,6 +171,7 @@
 
 - PACKUS is a B2B company that sells packaging containers for restaurants and companies. By analysing PACKUS's in-house data, our team suggests demand forecasting method to reduce delivery time and target marketing strategies.
 - Won a excellence Award in 'Yonsei Bigdata Contest' in 2019
+- Period: 2019.09 ~ 2019.12
 
 ---
 
@@ -180,6 +182,7 @@
 
 - Predict whether transaction is a fraud or not based on the card transaction data.
 - My first Bigdata competition
+- Period: 2019.07 ~ 2019.08
 
 ---
 
