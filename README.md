@@ -5,7 +5,7 @@
 - Ceritificates
   - HSK Level 5
   - SQLD (SQL Developer)
-  - FRM(Financial Risk Manager)
+  - FRM (Financial Risk Manager)
   - Craftsman Cook (Western Food, Japanese Food)
 - Career
   - Yonsei Big Data Study Club 15th member (2019.07~2021.02)
@@ -48,12 +48,12 @@
 ## Programming Languages
 - Python, Javascript, Typescript (ES6+) 🥇
 - SQL 🥇
+- R🥇
 
 ## Frameworks / Technologies
 - AWS (EC2, RDS, S3, DynamoDB)🥇
 - Express (Node.js) 🥇
 - MongoDB 🥈
-- R 🥈
 - HTML, CSS 🥉
 - Docker 🥉
 
@@ -81,7 +81,7 @@
 ---
 
 ### X-senators, Lawmaker Recommendation Website
-`#🥇Award Winning` `#Node.js` `#Python` `#NLP` 
+`🥇Award Winning` `#Node.js` `#Python` `#NLP` 
 
 [Dacon Leaderboard Link](https://dacon.io/competitions/official/235679/codeshare/1985)
 
@@ -115,7 +115,7 @@
 
 ---
 
-### POSCO ICT inhouse data analysis
+### POSCO ICT in-house data analysis
 `#POSCO` `#Industry-Academic`
 
 - POSCO ICT asked for research to find out COVID-19 impact on their company as an industry-academic cooperation. I helped professors preprocessing data and network analyze for their assertation.
