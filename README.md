@@ -47,7 +47,7 @@
 
 ## Programming Languages
 - Python, Javascript, Typescript (ES6+) 🥇
-- SQL 🥇
+- SQL (MySQL, PostegreSQL) 🥇
 - R🥇
 
 ## Frameworks / Technologies
