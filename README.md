@@ -198,4 +198,4 @@ Courses that I took related to data science
 |Digital Marketing Startegy and Application|Deterministic Models in OR|Introduction to Statistics|
 ||Industrial Data Management|Bayesian Statistics|
 ||Intelligent Information System|Mathematical Statistics (1)|
-||Data Mining Theory and Application|Mathematical Statistics (2)|
+||Data Mining Theory&Application|Mathematical Statistics (2)|
