@@ -195,7 +195,7 @@ Courses that I took related to data science
 |Marketing Research|Data Analysis|Linear Algebra|
 |Marketing Strategy Model|Optimization in AI|Statistical Method|
 |Digital Marketing Seminar|Quality Engineering|R&Python Programming|
-|Digital Marketing Startegy and Application|Deterministic Models in OR|Introduction to Statistics|
+|Digital Marketing Strategy and Application|Deterministic Models in OR|Introduction to Statistics|
 ||Industrial Data Management|Bayesian Statistics|
 ||Intelligent Information System|Mathematical Statistics (1)|
 ||Data Mining Theory&Application|Mathematical Statistics (2)|
