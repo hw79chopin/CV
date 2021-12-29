@@ -18,7 +18,7 @@
 # <h1 align="center"> 🏫 Education </h1>
 - BS in Business, Industrial Engineering, Applied Statistics(Minor)
   - University of Yonsei, South Korea
-- MS in Marketing (Scheduled)
+- MS in Quantitative Marketing
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
