@@ -13,7 +13,7 @@
     - YBIGTA Data Analytics Team Leader (2020.01 ~ 2020.07)
     - YBIGTA Data Engineering Team (2021.01 ~ 2021.02)
   - Founder of EagleEagle
-    - Roles: PM, Frontend & Backend Engieer, AI algorithm development
+    - Roles: PM, Frontend & Backend Engineer, AI algorithm development
 
 # <h1 align="center"> 🏫 Education </h1>
 - BS in Business, Industrial Engineering, Applied Statistics(Minor)
