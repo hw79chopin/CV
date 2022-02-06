@@ -42,7 +42,6 @@
 ```
 🥇 Most Proficient
 🥈 Proficient
-🥉 Know how to use
 ```
 
 ## Programming Languages
@@ -54,8 +53,7 @@
 - AWS (EC2, RDS, S3, DynamoDB)🥇
 - Express (Node.js) 🥇
 - MongoDB 🥈
-- HTML, CSS 🥉
-- Docker 🥉
+- HTML, CSS 🥈
 
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
