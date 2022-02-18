@@ -22,7 +22,7 @@
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
-- Quantative Marketing, Digital Marketing
+- Digital Marketing, Log Data Analysis, B2B Marketing
 - MarTech, Big Data
 
 
