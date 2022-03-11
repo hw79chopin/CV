@@ -58,6 +58,13 @@
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
 
+- <h3> How Digital Wallet Adoption Affects Adopters' Shopping App Usage </h3>
+
+  `Korean Operations Research and Management Science (2022)`
+  
+  The authors investigate how the adoption of a digital wallet affects adopters' shopping app usage using DID with propensity score matching.
+  
+ 
 - <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors </h3>
 
   `Korean Society for Quality Management (2021)`
