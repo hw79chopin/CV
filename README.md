@@ -58,7 +58,7 @@
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
 
-- <h3> How Digital Wallet Adoption Affects Adopters' Shopping App Usage </h3>
+- <h3> How Digital Wallet Adoption Affects Adopters' Shopping App Usage (submitted) </h3>
 
   `Korean Operations Research and Management Science (2022)`
   
