@@ -26,7 +26,7 @@
 - MarTech, Big Data
 
 
-# <h1 align="center"> 🎓 Awards & Scholarships </h1>
+# <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
 <h5 align="center"> Recent Order </h5>
 
