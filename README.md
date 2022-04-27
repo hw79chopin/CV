@@ -71,6 +71,9 @@
   
   This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
 
+- currently working on Mobile Game data analysis
+
+
 # <h1 align="center"> 📂 Projects </h1>
 <h5 align="center"> Recent Order </h5>
 
