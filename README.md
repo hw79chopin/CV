@@ -197,6 +197,8 @@
 # <h1 align="center"> 📚 Courses </h1>
 Courses that I took related to data science
 
+Undergraduate
+
 |Business| Industrial Engineering|Statistics|
 |:--:|:--:|:--:|
 |Business Analytics|AI Startup|Calculus|
@@ -207,3 +209,9 @@ Courses that I took related to data science
 ||Industrial Data Management|Bayesian Statistics|
 ||Intelligent Information System|Mathematical Statistics (1)|
 ||Data Mining Theory&Application|Mathematical Statistics (2)|
+
+Graduate
+|Business|Statistics|Economics|
+|:--:|:--:|:--:|
+|Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics (1) |
+||Deep Learning for Visual Recognition||
