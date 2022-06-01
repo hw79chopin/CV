@@ -29,7 +29,7 @@
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
 <h5 align="center"> Recent Order </h5>
-
+- Research Fellowship (with stipend), SSK (Social Science Korea), 2022 ~
 - Research Fellowship (with stipend), BK (Brain Korea) 21 plus, 2022 ~
 - Academic Achievement Award, Yonsei University, 2021
 - 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
