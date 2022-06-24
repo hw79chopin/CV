@@ -1,29 +1,37 @@
 <h1 align="center"><strong>Jung Hyun Woo</strong></h1>
 
-### Brief introduction
-- Email: chopin_liszt@naver.com
-- Ceritificates
-  - HSK Level 5
-  - SQLD (SQL Developer)
-  - FRM (Financial Risk Manager)
-  - Craftsman Cook (Western Food, Japanese Food)
-- Career
-  - Yonsei Big Data Study Club 15th member (2019.07~2021.02)
-    - YBIGTA Data Analytics Team (2019.07 ~ 2020.12)
-    - YBIGTA Data Analytics Team Leader (2020.01 ~ 2020.07)
-    - YBIGTA Data Engineering Team (2021.01 ~ 2021.02)
-  - Founder of EagleEagle
-    - Roles: PM, Frontend & Backend Engineer, AI algorithm development
+<h4 align="center">Email: hyunwoo.jung@yonsei.ac.kr </h4>
+
 
 # <h1 align="center"> 🏫 Education </h1>
-- BS in Business, Industrial Engineering, Applied Statistics(Minor)
-  - University of Yonsei, South Korea
 - MS in Quantitative Marketing (advisor Prof.Jeonghye Choi)
+  - University of Yonsei, South Korea
+- BS in Business, Industrial Engineering, Applied Statistics
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
 - Digital Marketing, Log Data Analysis, Image Analysis
 - MarTech, Big Data
+
+# <h1 align="center"> 📝 Publication </h1>
+<h5 align="center"> Recent Order </h5>
+
+- <h3> How Digital Wallet Adoption Affects Adopters' Shopping App Usage</h3>
+
+  `Korean Operations Research and Management Science (2022)`
+  
+  The authors investigate how the adoption of a digital wallet affects adopters' shopping app usage using DID with propensity score matching.
+  
+ 
+- <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors </h3>
+
+  `Korean Society for Quality Management (2021)`
+  
+  This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
+
+# <h1 align="center"> 📝 Working Paper</h1>
+- <h3> Unintended Consequences of Covid Lockdown: Evidence from U.S. stay-at-home Policy </h3> with Li Yiling and Jeunghye Choi
+- <h3> Alternative Minority and Mobile Game Usage </h3> with Jeunghye Choi
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
@@ -56,27 +64,6 @@
 - Express (Node.js) 🥇
 - MongoDB 🥈
 - HTML, CSS 🥈
-
-# <h1 align="center"> 📝 Publication </h1>
-<h5 align="center"> Recent Order </h5>
-
-- <h3> How Digital Wallet Adoption Affects Adopters' Shopping App Usage (1st round revision) </h3>
-
-  `Korean Operations Research and Management Science (2022)`
-  
-  The authors investigate how the adoption of a digital wallet affects adopters' shopping app usage using DID with propensity score matching.
-  
- 
-- <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors </h3>
-
-  `Korean Society for Quality Management (2021)`
-  
-  This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
-
-# <h1 align="center"> 📝 Working Paper</h1>
-- <h3> Unexpected Consequences of Covid Lockdown: Evidence from U.S. stay-at-home Policy </h3> with Li Yiling and Jeunghye Choi
-- <h3> Alternative Minority and Mobile Game Usage </h3>
-
 
 # <h1 align="center"> 📂 Projects </h1>
 <h5 align="center"> Recent Order </h5>
