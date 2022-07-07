@@ -30,7 +30,7 @@
   This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
 
 # <h1 align="center"> 📝 Working Paper</h1>
-- <h3> Unintended Consequences of Covid Lockdown: Evidence from U.S. stay-at-home Policy </h3> with Li Yiling and Jeunghye Choi
+- <h3> Enduring Effect of Covid Lockdown: Evidence from U.S. stay-at-home Policy </h3> with Li Yiling and Jeunghye Choi
 - <h3> Alternative Minority and Mobile Game Usage </h3> with Jeunghye Choi
 
 
