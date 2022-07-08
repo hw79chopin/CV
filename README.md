@@ -20,7 +20,7 @@
 
   `Korean Operations Research and Management Science (2022)`
   
-  The authors investigate how the adoption of a digital wallet affects adopters' shopping app usage using DID with propensity score matching.
+  The authors investigated how the adoption of a digital wallet affects adopters' shopping app usage using DID with propensity score matching.
   
  
 - <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors </h3>
