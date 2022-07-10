@@ -10,8 +10,8 @@
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
-- Digital Marketing, Log Data Analysis, Image Analysis
-- MarTech, Big Data
+- Subtantive: Public Policy, Mobile Game and Digital Wallet, Digital Marketing
+- Methods: Casual Inference, Vision Analysis, Bayesian Estimation
 
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
