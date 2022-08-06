@@ -11,7 +11,7 @@
 
 # <h1 align="center"> 🔎 Research Interest </h1>
 - Subtantive: Public Policy, Mobile Game and Digital Wallet, Digital Marketing
-- Methods: Casual Inference, Bayesian Estimation, Vision Analysis
+- Methods: Casual Inference, Bayesian Estimation, Image Analysis
 
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
