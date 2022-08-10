@@ -31,7 +31,7 @@
 
 # <h1 align="center"> 📝 Working Paper</h1>
 - <h3> Enduring Effect of Covid Lockdown: Evidence from U.S. stay-at-home Policy </h3> with Li Yiling and Jeunghye Choi
-- <h3> How Mobile Game Version Update Affects Playtime and Spending</h3> 
+- <h3> How Mobile Game Version Update Affects Playtime and Spending</h3>  with Jeunghye Choi
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
