@@ -31,7 +31,6 @@
 
 # <h1 align="center"> 📝 Working Paper</h1>
 - <b>Jung, Hyunwoo</b>, Yiling Li, and Jeonghye Choi, "The Effect of Lockdown Repeal on Socialization", revising for the first round at Asian Marketing Journal
-- <h3> Mobile Game Log Analysis</h3>  with Jeunghye Choi
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
