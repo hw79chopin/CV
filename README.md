@@ -16,21 +16,15 @@
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
 
-- <h3> How Digital Wallet Adoption Affects Adopters' Shopping App Usage</h3>
-
-  `Korean Operations Research and Management Science (2022)`
-  
-  The authors investigated how the adoption of a digital wallet affects adopters' shopping app usage using DID with propensity score matching.
-  
+- <b> Jung, Hyunwoo, </b> YiLing Li, Jeonghye Choi (2022), "The Effect of Lockdown Repeal: Bayesian Multilevel Difference-in-Differences Approach," *Asia Marketing Journal* (forthcoming)
+- <b> Jung, Hyunwoo, </b> Youshin Kwak, Jeonghye Choi (2022), "How Digital Wallet Adoption Affects Adopters' Shopping App Usage: Evidence from KakaoPay and KakaoCommerce," *Korean Operations Research and Management Science*, 47(3), 33-48
+- <b> Jung, Hyunwoo </b> et al. (2021) "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49(1), 17-29
  
-- <h3> Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors </h3>
 
-  `Korean Society for Quality Management (2021)`
-  
-  This paper proposes a content-based recommendation system to promote the political donation by analysing the bills lawmakers have proposed using NLP. 
+
 
 # <h1 align="center"> 📝 Working Paper</h1>
-- <b>Jung, Hyunwoo</b>, Yiling Li, and Jeonghye Choi, "The Effect of Lockdown Repeal on Socialization", revising for the first round at Asian Marketing Journal
+- working on mobile log data
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
