@@ -198,5 +198,7 @@ Undergraduate
 Graduate
 |Business|Statistics|Economics|
 |:--:|:--:|:--:|
-|Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics (1) |
+|Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics 1|
 ||Deep Learning for Visual Recognition||
+||Generalized Mixed Models for Data Science||
+||Spatio-Temporal Data Analysis||
