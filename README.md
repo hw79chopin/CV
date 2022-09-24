@@ -25,7 +25,7 @@
 
 # <h1 align="center"> 📝 Working Paper</h1>
 - Jung, Hyunwoo and Jeonghye Choi "Halo or Cannibalization? Mobile Game Diversification Strategy and its Impact on Incumbent Apps", preparing presentation at GBRC
-- Jung, Hyunwoo and Jeonghye Choi "Mobile Game and Covid Word-of-Mouth: How Urge to Socialize Migrate", preparing presentation at KSMS
+- Jung, Hyunwoo and Jeonghye Choi "Physical Activity Restriction and Mobile Game: How Urge to Socialize Migrate", preparing presentation at KSMS
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
