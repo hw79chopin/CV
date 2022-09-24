@@ -21,10 +21,11 @@
 - <b> Jung, Hyunwoo, </b> Youshin Kwak, and Jeonghye Choi (2022), "How Digital Wallet Adoption Affects Adopters' Shopping App Usage: Evidence from KakaoPay and KakaoCommerce," *Korean Operations Research and Management Science*, 47(3), 33-48 <br>
 
 - <b> Jung, Hyunwoo </b> et al. (2021) "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49(1), 17-29 <br>
- 
+
 
 # <h1 align="center"> 📝 Working Paper</h1>
-- working on mobile log data
+- Jung, Hyunwoo and Jeonghye Choi "Halo or Cannibalization? Mobile Game Diversification Strategy and its Impact on Incumbent Apps", preparing presentation at GBRC
+- Jung, Hyunwoo and Jeonghye Choi "Mobile Game and Covid Word-of-Mouth: How Urge to Socialize Migrate", preparing presentation at KSMS
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
