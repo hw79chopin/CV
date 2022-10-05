@@ -24,13 +24,14 @@
 
 
 # <h1 align="center"> 📝 Working Paper</h1>
-- Jung, Hyunwoo and Jeonghye Choi "Halo or Cannibalization? Mobile Game Diversification Strategy and its Impact on Incumbent Apps", preparing presentation at GBRC
-- Jung, Hyunwoo and Jeonghye Choi "Physical Activity Restriction and Mobile Game: How Urge to Socialize Migrate", preparing presentation at KSMS
+- Jung, Hyunwoo and Jeonghye Choi "Halo or Cannibalization? Mobile Game Diversification Strategy and its Impact on Incumbent Apps"
+- Jung, Hyunwoo and Jeonghye Choi "WOM and Mobile Game"
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
 <h5 align="center"> Recent Order </h5>
+
 - Research Fellowship, Academic Research Support Fellowship, 2022 ~
 - Research Fellowship (with stipend), SSK (Social Science Korea), 2022 ~
 - Research Fellowship (with stipend), BK (Brain Korea) 21 plus, 2022 ~
