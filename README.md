@@ -20,7 +20,7 @@
 
 - <b> Jung, Hyunwoo, </b> Youshin Kwak, and Jeonghye Choi (2022), "How Digital Wallet Adoption Affects Adopters' Shopping App Usage: Evidence from KakaoPay and KakaoCommerce," *Korean Operations Research and Management Science*, 47(3), 33-48 <br>
 
-- <b> Jung, Hyunwoo </b>, Hyunjun Yoon, Seeeun Lee, Solhee Park, Soyoung Sohn. (2021) "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49(1), 17-29 <br>
+- <b> Jung, Hyunwoo, </b> Hyunjun Yoon, Seeeun Lee, Solhee Park, Soyoung Sohn. (2021) "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49(1), 17-29 <br>
 
 
 # <h1 align="center"> 📝 Working Paper</h1>
