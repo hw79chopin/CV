@@ -40,7 +40,7 @@
 - 1st place in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
 - Academic Achievement Award, Yonsei University, 2020
 - Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
-- Excellence Award in 'Yonsei Bigdata Contest', Yonsei University, 2019
+- 3rd prize in 'Yonsei Bigdata Contest', Yonsei University, 2019
 
 
 # <h1 align="center"> 💻 Programming Proficiency </h1>
