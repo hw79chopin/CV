@@ -32,15 +32,16 @@
 
 <h5 align="center"> Recent Order </h5>
 
+- 2nd prize (with $5,000) in the '2022 Korea Management Association (KMAC) Business Innovation Contest', KMAC, 2022
 - Research Fellowship, Academic Research Support Fellowship, 2022 ~
 - Research Fellowship (with stipend), SSK (Social Science Korea), 2022 ~
 - Research Fellowship (with stipend), BK (Brain Korea) 21 plus, 2022 ~
 - Academic Achievement Award, Yonsei University, 2021
-- 1st place in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
-- 1st place in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
+- 1st prize (with $500) in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
+- 1st prize (with $5,000) in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
 - Academic Achievement Award, Yonsei University, 2020
 - Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
-- 3rd prize in 'Yonsei Bigdata Contest', Yonsei University, 2019
+- 3rd prize (with $1,000) in 'Yonsei Bigdata Contest', Yonsei University, 2019
 
 
 # <h1 align="center"> 💻 Programming Proficiency </h1>
