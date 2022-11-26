@@ -25,6 +25,7 @@
 
 # <h1 align="center"> 📝 Working Paper</h1>
 - Jung, Hyunwoo and Jeonghye Choi "Halo or Cannibalization? Mobile Game Diversification Strategy and its Impact on Incumbent Apps"
+- Jung, Hyunwoo and Jeonghye Choi "Spatiotemporal Analysis of Location-based App Diffusion"
 - Jung, Hyunwoo and Jeonghye Choi "WOM and Mobile Game"
 
 
