@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Jung Hyun Woo</strong></h1>
+<h1 align="center"><strong>Hyun Woo, Jung</strong></h1>
 
 <h4 align="center">Email: hyunwoo.jung@yonsei.ac.kr </h4>
 
