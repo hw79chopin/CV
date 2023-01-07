@@ -24,11 +24,10 @@
 
 
 # <h1 align="center"> 📝 Working Paper</h1>
-- Jung, Hyunwoo and Jeonghye Choi "Halo or Cannibalization? New Mobile Game Adoption and its Impact on Incumbent Apps"
-- Jung, Hyunwoo and Jeonghye Choi "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps"
-- Jung, Hyunwoo and Jeonghye Choi "WOM and Mobile Game"
+- "Halo or Cannibalization? New Mobile Game Adoption and its Impact on Incumbent Apps" with Jeonghye choi and Jikyung Kim
+- "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye choi and Jikyung Kim
 - "Disturbing Price with Excessive Bargaining Power" with three co-authors
-
+- Jung, Hyunwoo and Jeonghye Choi "WOM and Mobile Game"
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
