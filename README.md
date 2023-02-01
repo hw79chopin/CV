@@ -27,7 +27,6 @@
 - "Halo or Cannibalization? New Mobile Game Adoption and its Impact on Incumbent Apps" with Jeonghye choi and Jikyung Kim
 - "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye choi and Jikyung Kim
 - "Dominant Reatilers and its Distburbing Effect on Wholesale Price" with three co-authors
-- "WOM and Mobile Game" with Jeonghye Choi
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
