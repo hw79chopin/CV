@@ -209,6 +209,8 @@ Graduate
 |Business|Statistics|Economics|
 |:--:|:--:|:--:|
 |Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics 1|
-||Deep Learning for Visual Recognition||
+||Deep Learning for Visual Recognition|Applied Microeconometrics Analysis|
 ||Generalized Mixed Models for Data Science||
 ||Spatio-Temporal Data Analysis||
+||Quantum Data Science||
+||Nonparametric Function Estimation||
