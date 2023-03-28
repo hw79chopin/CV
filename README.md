@@ -22,7 +22,6 @@
 
 - <b> Jung, Hyunwoo, </b> Hyungjun Yoon, Seeeun Lee, Solhee Park, Soyoung Sohn (2021), "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49 (1), 17-29 <br>
 
-
 # <h1 align="center"> 📝 Working Paper</h1>
 - "New Mobile Game Adoption and its Spillover Impact on Incumbent Apps" with Jeonghye choi and Jikyung Kim
 - "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye choi and Jikyung Kim
@@ -41,7 +40,7 @@
 
 <h3 align="center"> Scholarships </h3>
 
-- Research Fellowship, Academic Research Support Fellowship, 2022 ~
+- Research Fellowship, Academic Research Support Fellowship, 2022 ~ 2022
 - Research Fellowship (with stipend), SSK (Social Science Korea), 2022 ~
 - Research Fellowship (with stipend), BK (Brain Korea) 21 plus, 2022 ~
 - Social Innovation Scholarship, Institute for Higher Education Innovation, 2020
@@ -51,6 +50,42 @@
 "Halo or Cannibalization? New Mobile Game Adoption and its Impact on Incumbent Apps"
 - Korea Management Engineers Society Fall Conference in Seoul, Korea (2022)
 
+# <h1 align="center"> 📚 Courses </h1>
+- Courses that I took related to data analysis
+
+
+<div align="center">
+
+Graduate
+
+|Business|Statistics|Economics|
+|:--:|:--:|:--:|
+|Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics 1|
+||Deep Learning for Visual Recognition|Applied Microeconometrics Analysis|
+||Generalized Mixed Models for Data Science||
+||Spatio-Temporal Data Analysis||
+||Quantum Data Science||
+||Nonparametric Function Estimation||
+
+</div>
+
+<div align="center">
+
+
+Undergraduate
+
+|Business| Industrial Engineering|Statistics|
+|:--:|:--:|:--:|
+|Business Analytics|AI Startup|Calculus|
+|Marketing Research|Data Analysis|Linear Algebra|
+|Marketing Strategy Model|Optimization in AI|Statistical Method|
+|Digital Marketing Seminar|Quality Engineering|R&Python Programming|
+|Digital Marketing Strategy and Application|Deterministic Models in OR|Introduction to Statistics|
+||Industrial Data Management|Bayesian Statistics|
+||Intelligent Information System|Mathematical Statistics (1)|
+||Data Mining Theory&Application|Mathematical Statistics (2)|
+
+</div>
 
 # <h1 align="center"> 💻 Programming Proficiency </h1>
 ```
@@ -188,29 +223,3 @@
 - Period: 2019.07 ~ 2019.08
 
 ---
-
-# <h1 align="center"> 📚 Courses </h1>
-Courses that I took related to data science
-
-Undergraduate
-
-|Business| Industrial Engineering|Statistics|
-|:--:|:--:|:--:|
-|Business Analytics|AI Startup|Calculus|
-|Marketing Research|Data Analysis|Linear Algebra|
-|Marketing Strategy Model|Optimization in AI|Statistical Method|
-|Digital Marketing Seminar|Quality Engineering|R&Python Programming|
-|Digital Marketing Strategy and Application|Deterministic Models in OR|Introduction to Statistics|
-||Industrial Data Management|Bayesian Statistics|
-||Intelligent Information System|Mathematical Statistics (1)|
-||Data Mining Theory&Application|Mathematical Statistics (2)|
-
-Graduate
-|Business|Statistics|Economics|
-|:--:|:--:|:--:|
-|Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics 1|
-||Deep Learning for Visual Recognition|Applied Microeconometrics Analysis|
-||Generalized Mixed Models for Data Science||
-||Spatio-Temporal Data Analysis||
-||Quantum Data Science||
-||Nonparametric Function Estimation||
