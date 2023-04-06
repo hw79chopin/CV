@@ -97,6 +97,7 @@ Undergraduate
 - Python, Javascript, Typescript (ES6+) 🥇
 - SQL (MySQL, PostegreSQL) 🥇
 - R🥇
+- STATA 🥈
 
 ## Frameworks / Technologies
 - AWS (EC2, RDS, S3, DynamoDB)🥇
