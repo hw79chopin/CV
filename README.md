@@ -61,7 +61,7 @@ Graduate
 |Business|Statistics|Economics|
 |:--:|:--:|:--:|
 |Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics 1|
-||Deep Learning for Visual Recognition|Applied Microeconometrics Analysis|
+|Digital Marketing Seminar|Deep Learning for Visual Recognition|Applied Microeconometrics Analysis|
 ||Generalized Mixed Models for Data Science||
 ||Spatio-Temporal Data Analysis||
 ||Quantum Data Science||
@@ -79,8 +79,8 @@ Undergraduate
 |Business Analytics|AI Startup|Calculus|
 |Marketing Research|Data Analysis|Linear Algebra|
 |Marketing Strategy Model|Optimization in AI|Statistical Method|
-|Digital Marketing Seminar|Quality Engineering|R&Python Programming|
-|Digital Marketing Strategy and Application|Deterministic Models in OR|Introduction to Statistics|
+|Digital Marketing Strategy and Application|Quality Engineering|R&Python Programming|
+||Deterministic Models in OR|Introduction to Statistics|
 ||Industrial Data Management|Bayesian Statistics|
 ||Intelligent Information System|Mathematical Statistics (1)|
 ||Data Mining Theory&Application|Mathematical Statistics (2)|
