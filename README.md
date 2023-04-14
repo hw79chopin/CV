@@ -26,6 +26,7 @@
 - "New Mobile Game Adoption and its Spillover Impact on Incumbent Apps" with Jeonghye choi and Jikyung Kim
 - "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye choi and Jikyung Kim
 - "Dominant Retailers and Wholesale Price Distburbance" with three co-authors
+- "The Effect of General Hospital Opening on Regional Health Care"
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
