@@ -10,8 +10,8 @@
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
-- Subtantive: Public Policy, Mobile Game, Digital Wallet, Digital Marketing
-- Methods: Casual Inference, Bayesian Estimation, Image Analysis
+- Subtantive: Digital Health Care, Public Policy, Mobile Game
+- Methods: Casual Inference, Econometrics, Bayesian Estimation, Image Analysis
 
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
