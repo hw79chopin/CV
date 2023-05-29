@@ -32,10 +32,10 @@
 <h3 align="center"> Awards </h3>
 
 - 2nd prize (with $5,000) in the '2022 Korea Management Association (KMAC) Business Innovation Contest', KMAC, 2022
-- Academic Achievement Award, Yonsei University, 2021
+- Yonsei Univserity Dean's list, Honered student prize, 2021
 - 1st prize (with $500) in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
 - 1st prize (with $5,000) in the '1st Samsung Card Bigdata Analysis Contest' (Algorithm Development), Samsung Card, 2020
-- Academic Achievement Award, Yonsei University, 2020
+- Yonsei Univserity Dean's list, Honered student prize, 2020
 - 3rd prize (with $1,000) in 'Yonsei Bigdata Contest', Yonsei University, 2019
 
 <h3 align="center"> Scholarships </h3>
