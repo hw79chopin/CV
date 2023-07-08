@@ -26,6 +26,7 @@
 - "New Mobile Game Adoption and its Spillover Impact on Existing Games" with Jeonghye Choi and Jikyung Kim
 - "Dominant Retailers and Wholesale Price Distburbance" with Jeonghye Choi, Hyorung Nam, and Wooyong Jo
 - "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye Choi and Jikyung Kim
+- "Does Proximity Really Matters? Unveiling the Role of Industrial Similarity with Machine Learning" with Jeonghye Choi
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
 
