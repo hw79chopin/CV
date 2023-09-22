@@ -10,7 +10,7 @@
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
-- Topics: Health Care, Public Policy, Mobile Game
+- Topics: Health Care, Public Policy, Digital Marketing
 - Methodologies: Econometrics, Machine Learning, Bayesian Estimation
 
 # <h1 align="center"> 📝 Publication </h1>
