@@ -65,7 +65,7 @@ Graduate
 |:--:|:--:|:--:|
 |Quantitative Marketing Seminar|Advanced Bayesian Methods|Econometrics 1|
 |Digital Marketing Seminar|Deep Learning for Visual Recognition|Applied Microeconometrics Analysis|
-||Generalized Mixed Models for Data Science|Microeconomics 1|
+|Marketing Proseminar on Consumer Behavior|Generalized Mixed Models for Data Science|Microeconomics 1|
 ||Spatio-Temporal Data Analysis||
 ||Quantum Data Science||
 ||Nonparametric Function Estimation||
