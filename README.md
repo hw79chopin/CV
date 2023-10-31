@@ -6,7 +6,7 @@
 # <h1 align="center"> 🏫 Education </h1>
 - MS in Quantitative Marketing (advisor Prof.Jeonghye Choi)
   - University of Yonsei, South Korea
-- BS in Business Administration and Industrial Engineering (Minor in Applied Statistics)
+- BS in Business Administration and Industrial Engineering, minor in Applied Statistics
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
