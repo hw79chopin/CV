@@ -16,7 +16,7 @@
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
 
-- <b> Jung, Hyunwoo, </b> and Jeonghye Choi (2023), "Does Proximity Really Matters? Unveiling the Role of Industrial Similarity with Ensemble Machine Learning", *Journal of Marketing Management Research*, accepted <br>
+- <b> Jung, Hyunwoo, </b> and Jeonghye Choi (2023), "Does Proximity Really Matters? Unveiling the Role of Industrial Similarity with Ensemble Machine Learning", *Journal of Marketing Management Research*, 28 (4), 1-25 <br>
 
 - <b> Jung, Hyunwoo, </b> YiLing Li, and Jeonghye Choi (2022), "The Effect of Lockdown Repeal: Bayesian Multilevel Difference-in-Differences Approach," *Asia Marketing Journal*, 24 (2), 109-120 <br>
 
