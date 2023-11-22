@@ -34,6 +34,7 @@
 
 <h3 align="center"> Awards </h3>
 
+- 4th prize (with $500) in the '2023 Korea Management Association (KMAC) Business Innovation Contest', KMAC, 2023
 - 2nd prize (with $5,000) in the '2022 Korea Management Association (KMAC) Business Innovation Contest', KMAC, 2022
 - Yonsei Univserity Dean's list, Honered student prize, 2021
 - 1st prize (with $500) in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
