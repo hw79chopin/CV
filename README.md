@@ -20,6 +20,8 @@
 
 - <b> Jung, Hyunwoo, </b> YiLing Li, and Jeonghye Choi (2022), "The Effect of Lockdown Repeal: Bayesian Multilevel Difference-in-Differences Approach," *Asia Marketing Journal*, 24 (2), 109-120 <br>
 
+  - 3rd prize in 2023 Best Academic Paper Award from Yonsei University
+
 - <b> Jung, Hyunwoo, </b> Youshin Kwak, and Jeonghye Choi (2022), "How Digital Wallet Adoption Affects Adopters' Shopping App Usage: Evidence from KakaoPay and KakaoCommerce," *Korean Operations Research and Management Science*, 47 (3), 33-48 <br>
 
 - <b> Jung, Hyunwoo, </b> Hyungjun Yoon, Seeeun Lee, Solhee Park, Soyoung Sohn (2021), "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49 (1), 17-29 <br>
@@ -35,6 +37,7 @@
 <h3 align="center"> Awards </h3>
 
 - 4th prize (with $500) in the '2023 Korea Management Association (KMAC) Business Innovation Contest', KMAC, 2023
+- 3rd prize in '2023 Best Academic Paper Award', Yonsei University, 2023
 - 2nd prize (with $5,000) in the '2022 Korea Management Association (KMAC) Business Innovation Contest', KMAC, 2022
 - Yonsei Univserity Dean's list, Honered student prize, 2021
 - 1st prize (with $500) in the 'National Assembly Legislative Activities Bigdata Contest', Dacon, 2021
