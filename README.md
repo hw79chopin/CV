@@ -4,14 +4,16 @@
 
 
 # <h1 align="center"> 🏫 Education </h1>
-- MS in Quantitative Marketing (advisor Prof.Jeonghye Choi)
+- M.S. in Quantitative Marketing (advisor Prof.Jeonghye Choi)
   - University of Yonsei, South Korea
-- BS in Business Administration and Industrial Engineering, minor in Applied Statistics
+- B.B.A. in Business Administration
+- B.S. in Industrial Engineering (dual degree)
+- Minor in Applied Statistics
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
-- Topics: Health Care, Public Policy, Digital Marketing
-- Methodologies: Econometrics, Machine Learning, Bayesian Estimation
+- Topics: Public Policy, Digital Marketing, Health Care
+- Methodologies: Econometrics, Image Analysis, Machine Learning, Bayesian Estimation
 
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
