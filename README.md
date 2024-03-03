@@ -18,7 +18,7 @@
 # <h1 align="center"> 📝 Publication </h1>
 <h5 align="center"> Recent Order </h5>
 
-- <b> Jung, Hyunwoo, </b> and Jeonghye Choi (2023), "Does Proximity Really Matters? Unveiling the Role of Industrial Similarity with Ensemble Machine Learning," *Journal of Marketing Management Research*, 28 (4), 1-25 <br>
+- <b> Jung, Hyunwoo </b> and Jeonghye Choi (2023), "Does Proximity Really Matters? Unveiling the Role of Industrial Similarity with Ensemble Machine Learning," *Journal of Marketing Management Research*, 28 (4), 1-25 <br>
 
 - <b> Jung, Hyunwoo, </b> YiLing Li, and Jeonghye Choi (2022), "The Effect of Lockdown Repeal: Bayesian Multilevel Difference-in-Differences Approach," *Asia Marketing Journal*, 24 (2), 109-120 <br>
 
@@ -31,7 +31,7 @@
 # <h1 align="center"> 📝 Working Paper</h1>
 - "Paper Analyzing  Mobile Casual Games" submitted
 - "Green Policy and Unequal Consequences" with Jeonghye Choi and Wooyong Jo
-- "Dominant Retailers and Wholesale Price Distburbance" with Jeonghye Choi, Hyorung Nam, and Wooyong Jo
+- "Does Price Premium Really Good?" with Jeonghye Choi and Inseo Hwang
 - "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye Choi and Jikyung Kim
 
 
