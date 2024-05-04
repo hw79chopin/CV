@@ -57,6 +57,9 @@
 
 # <h1 align="center"> 🎤 Conference Presentations </h1>
 
+"Bayesian Spatiotemporal Analysis of Location-based App Diffusion"
+- Korea Distribution Association Spring Conference in Seoul, Korea (2024)
+
 "Halo or Cannibalization? New Mobile Game Adoption and its Impact on Incumbent Apps"
 - Korea Management Engineers Society Fall Conference in Seoul, Korea (2022)
 
