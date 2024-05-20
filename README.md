@@ -12,7 +12,7 @@
   - University of Yonsei, South Korea
 
 # <h1 align="center"> 🔎 Research Interest </h1>
-- Topics: Public Policy, Digital Marketing, Health Care
+- Topics: Digital Marketing, Public Policy, Health Care
 - Methodologies: Econometrics, Image Analysis, Machine Learning, Bayesian Estimation
 
 # <h1 align="center"> 📝 Publication </h1>
