@@ -31,8 +31,9 @@
 # <h1 align="center"> 📝 Working Paper</h1>
 - "Paper Analyzing  Mobile Casual Games" submitted
 - "Green Policy and Unequal Consequences" with Jeonghye Choi and Wooyong Jo
-- "Does Price Premium Really Good?" with Jeonghye Choi and Inseo Hwang
-- "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye Choi and Jikyung Kim
+- "Premium that Sells" with Jeonghye Choi
+- "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye Choi and Wookyung Kim
+- "Product image and the Premium" with Jeonghye Choi and Inseo Hwang
 
 
 # <h1 align="center"> 🏆 Awards & Scholarships </h1>
