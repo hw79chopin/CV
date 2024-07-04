@@ -28,9 +28,11 @@
 
 - <b> Jung, Hyunwoo, </b> Hyungjun Yoon, Seeeun Lee, Solhee Park, and Soyoung Sohn (2021), "Quality Indicator Based Recommendation System of the National Assembly Members for Political Sponsors," *Korean Society for Quality Management*, 49 (1), 17-29 <br>
 
-# <h1 align="center"> 📝 Working Paper</h1>
-- "Paper Analyzing  Mobile Casual Games" submitted
-- "Green Policy and Unequal Consequences" with Jeonghye Choi and Wooyong Jo
+# <h1 align="center"> 📝 Working Paper</h1> 
+ <h4 align="center"> <i>Exact titles are disguised to preserve the double-blind review process </i></h4>
+
+- "Paper Analyzing Disposable Cup Deposit Policy" under review
+- "Paper Analyzing Mobile Casual Games Series Extension" under review
 - "Premium that Sells" with Jeonghye Choi
 - "Spatiotemporal Analysis of Location-based App Diffusion: Evidence from Delivery Apps" with Jeonghye Choi and Wookyung Kim
 - "Product Image and the Premium" with Jeonghye Choi and Inseo Hwang
